@@ -1,53 +1,35 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Nikolay&fontSize=60&fontColor=e6edf3&fontAlignY=35&desc=Building%20tools%20that%20bridge%20languages%20and%20platforms&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=e6edf3&center=true&vCenter=true&repeat=true&width=380&height=40&lines=Hi%2C+I'm+Nikolay)](https://github.com/nikiomori)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=Full-Stack+Developer+%7C+Open+Source+Contributor;Creator+of+Inkover+%E2%80%94+AI+Manga+Translation;Swift+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+DevOps)](https://git.io/typing-svg)
+Full-stack engineer & BI analyst. I build data-driven products and ship side projects.
 
-<br/>
-
-<!-- Social Badges -->
-[![Website](https://img.shields.io/badge/inkover.ink-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://inkover.ink)
-[![GitHub](https://img.shields.io/badge/nikiomori-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/nikiomori)
+[![Website](https://img.shields.io/badge/inkover.ink-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1OGE2ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTAiLz48L3N2Zz4=&logoColor=58a6ff)](https://inkover.ink)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/@nikiomori-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/nikiomori)
 
 </div>
 
 ---
 
-### About Me
+### What I Do
 
-I'm a full-stack developer focused on building products that solve real problems — from AI-powered translation tools to native macOS apps. I enjoy working across the entire stack: designing APIs, crafting interfaces, and wiring up infrastructure.
+By day — BI analyst at [AssistAgro](https://assistagro.com) / [AgroHistory](https://info.agrohistory.com). Dashboards, data pipelines, analytics for agribusiness. Currently building **Куарка** — a full-cycle warehouse management system for agricultural enterprises.
 
-Currently shipping **[Inkover](https://inkover.ink)** — a professional manga translation platform powered by Gemini AI.
+After hours — I ship my own products, from AI content platforms to analytics dashboards and automotive catalogs.
 
 ---
 
-### Featured Projects
+### Projects
 
-<table>
-<tr>
-<td width="50%">
-
-**[Inkover](https://inkover.ink)** — AI Manga Translation Platform
-
-Professional translation toolkit with full editorial control. Gemini-powered OCR, editable text blocks, canvas editor, version history, batch processing, and native long strip support.
-
-`Python` `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%">
-
-**[Nothing X for macOS](https://github.com/nikiomori/nothing-x-macos)** ⭐ 9
-
-Unofficial macOS companion app for Nothing and CMF earbuds. ANC, EQ presets, gesture controls, Find My Buds, battery monitoring — all built natively with SwiftUI and CoreBluetooth.
-
-`Swift` `SwiftUI` `CoreBluetooth` `Combine`
-
-</td>
-</tr>
-</table>
+| Project | What it does |
+|---------|-------------|
+| **[Inkover](https://inkover.ink)** | AI-powered manga translation platform — OCR, text editing, image rendering, batch processing |
+| **[Socribo](https://socribo.com)** | AI SMM automation — content plans, copywriting, auto-publishing to Telegram, VK, Dzen, OK |
+| **[Диктовка](https://dictation.ink)** | Free audio/video transcription — speaker recognition, summarization, 90+ languages |
+| **[Rent Stat](https://renthub.nikiomori.com)** | Belarus rental market analytics — AI quality scoring, duplicate detection, dashboards |
+| **[EV Belarus](https://evbelarus.com)** | EV catalog for Belarus — specs, prices, safety ratings, owner reviews, market blog |
+| **Куарка** | Warehouse management for agribusiness — full-stack inventory tracking system |
 
 ---
 
@@ -59,55 +41,39 @@ Unofficial macOS companion app for Nothing and CMF earbuds. ANC, EQ presets, ges
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138)
 ![Shell](https://img.shields.io/badge/Shell-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
-**Backend & Data**
+**Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-
-**Frontend**
-
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=e6edf3)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-**DevOps & Tools**
+**Data & Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-0d1117?style=flat-square&logo=clickhouse&logoColor=FFCC01)
+![DuckDB](https://img.shields.io/badge/DuckDB-0d1117?style=flat-square&logo=duckdb&logoColor=FFF000)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Appwrite](https://img.shields.io/badge/Appwrite-0d1117?style=flat-square&logo=appwrite&logoColor=FD366E)
+
+**Analytics & GIS**
+
+![Apache Airflow](https://img.shields.io/badge/Airflow-0d1117?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![Apache Superset](https://img.shields.io/badge/Superset-0d1117?style=flat-square&logo=apachesuperset&logoColor=20A6C9)
+![QGIS](https://img.shields.io/badge/QGIS-0d1117?style=flat-square&logo=qgis&logoColor=589632)
+
+**DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
 ![GitHub Actions](https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikiomori&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikiomori&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="170" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nikiomori&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
