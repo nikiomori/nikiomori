@@ -25,10 +25,10 @@ After hours — I ship my own products, from AI content platforms to analytics d
 | Project | What it does |
 |---------|-------------|
 | **[Inkover](https://inkover.ink)** | AI-powered manga translation platform — OCR, text editing, image rendering, batch processing |
-| **[Socribo](https://socribo.com)** | AI SMM automation — content plans, copywriting, auto-publishing to Telegram, VK, Dzen, OK |
-| **[Диктовка](https://dictation.ink)** | Free audio/video transcription — speaker recognition, summarization, 90+ languages |
-| **[Rent Stat](https://renthub.nikiomori.com)** | Belarus rental market analytics — AI quality scoring, duplicate detection, dashboards |
-| **[EV Belarus](https://evbelarus.com)** | EV catalog for Belarus — specs, prices, safety ratings, owner reviews, market blog |
+| **[Socribo](https://socribo.ru)** | AI SMM automation — content plans, copywriting, auto-publishing to Telegram, VK, Dzen, OK |
+| **[Диктовка](https://xn--80adfqkb0a5a.xn--p1ai)** | Free audio/video transcription — speaker recognition, summarization, 90+ languages |
+| **[Rent Stat](https://rent-stat.org)** | Belarus rental market analytics — AI quality scoring, duplicate detection, dashboards |
+| **[EV Belarus](https://evauto.pro)** | EV catalog for Belarus — specs, prices, safety ratings, owner reviews, market blog |
 | **Куарка** | Warehouse management for agribusiness — full-stack inventory tracking system |
 
 ---
