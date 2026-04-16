@@ -1,14 +1,8 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=e6edf3&center=true&vCenter=true&repeat=true&width=380&height=40&lines=Hi%2C+I'm+Nikolay)](https://github.com/nikiomori)
+# Nikolay
 
 Full-stack engineer & BI analyst. I build data-driven products and ship side projects.
 
-[![Website](https://img.shields.io/badge/inkover.ink-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1OGE2ZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTAiLz48L3N2Zz4=&logoColor=58a6ff)](https://inkover.ink)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/@nikiomori-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/nikiomori)
-
-</div>
+[inkover.ink](https://inkover.ink) · [@nikiomori](https://t.me/nikiomori)
 
 ---
 
@@ -16,7 +10,7 @@ Full-stack engineer & BI analyst. I build data-driven products and ship side pro
 
 By day — BI analyst at [AssistAgro](https://assistagro.com) / [AgroHistory](https://info.agrohistory.com). Dashboards, data pipelines, analytics for agribusiness. Currently building **Куарка** — a full-cycle warehouse management system for agricultural enterprises.
 
-After hours — I ship my own products, from AI content platforms to analytics dashboards and automotive catalogs.
+After hours — I ship my own products: AI content platforms, analytics dashboards, and automotive catalogs.
 
 ---
 
@@ -24,12 +18,12 @@ After hours — I ship my own products, from AI content platforms to analytics d
 
 | Project | What it does |
 |---------|-------------|
-| **[Inkover](https://inkover.ink)** | AI-powered manga translation platform — OCR, text editing, image rendering, batch processing |
-| **[Socribo](https://socribo.ru)** | AI SMM automation — content plans, copywriting, auto-publishing to Telegram, VK, Dzen, OK |
-| **[Диктовка](https://xn--80adfqkb0a5a.xn--p1ai)** | Free audio/video transcription — speaker recognition, summarization, 90+ languages |
-| **[Rent Stat](https://rent-stat.org)** | Belarus rental market analytics — AI quality scoring, duplicate detection, dashboards |
-| **[EV Belarus](https://evauto.pro)** | EV catalog for Belarus — specs, prices, safety ratings, owner reviews, market blog |
-| **Куарка** | Warehouse management for agribusiness — full-stack inventory tracking system |
+| **[Inkover](https://inkover.ink)** | Translate manga and webtoons right in your browser — AI OCR, inpainting, editable text blocks, batch chapters, full version history |
+| **[Socribo](https://socribo.ru)** | AI autopilot for social media — generates content plans, writes posts, and publishes to Telegram, VK, Dzen, and OK |
+| **[Диктовка](https://xn--80adfqkb0a5a.xn--p1ai)** | Turn any audio or video into structured text — speaker diarization, summaries, and 90+ languages, free to use |
+| **[Rent Stat](https://rent-stat.org)** | Real picture of the Belarus rental market — AI-scored listings, duplicate filtering, and live dashboards |
+| **[EV Belarus](https://evauto.pro)** | The EV reference for Belarus — every model, spec, price, crash rating, and owner review in one place |
+| **Куарка** | WMS purpose-built for agribusiness — real-time inventory, stock movements, and operations across the farm |
 
 ---
 
