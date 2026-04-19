@@ -1,7 +1,6 @@
 # Nikolay
 
-Full-stack engineer & BI analyst. I build data-driven products and ship side projects.
-
+Full-stack engineer & BI analyst.
 [inkover.ink](https://inkover.ink) · [@nikiomori](https://t.me/nikiomori)
 
 ---
