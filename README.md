@@ -17,8 +17,8 @@ After hours — I ship my own products: AI content platforms, analytics dashboar
 
 | Project | What it does |
 |---------|-------------|
-| **[Inkover](https://inkover.ink)** | Translate manga and webtoons right in your browser — AI OCR, inpainting, editable text blocks, batch chapters, full version history |
-| **[Socribo](https://socribo.ru)** | AI autopilot for social media — generates content plans, writes posts, and publishes to Telegram, VK, Dzen, and OK |
+| <img src="https://icon.horse/icon/inkover.ink" width="15" align="center"/> **[Inkover](https://inkover.ink)**  | Translate manga and webtoons right in your browser — AI OCR, inpainting, editable text blocks, batch chapters, full version history |
+| <img src="https://icon.horse/icon/socribo.ru" width="15" align="center"/> **[Socribo](https://socribo.ru)** | AI autopilot for social media — generates content plans, writes posts, and publishes to Telegram, VK, Dzen, and OK |
 | **[Диктовка](https://xn--80adfqkb0a5a.xn--p1ai)** | Turn any audio or video into structured text — speaker diarization, summaries, and 90+ languages, free to use |
 | **[Rent Stat](https://rent-stat.org)** | Real picture of the Belarus rental market — AI-scored listings, duplicate filtering, and live dashboards |
 | **[EV Belarus](https://evauto.pro)** | The EV reference for Belarus — every model, spec, price, crash rating, and owner review in one place |
