@@ -1,15 +1,13 @@
-# Nikolay
+# Nikolay Dubina
 
-Full-stack engineer & BI analyst.
+Full-stack engineer · BI analyst
+
 [inkover.ink](https://inkover.ink) · [@nikiomori](https://t.me/nikiomori)
 
 ---
 
-### What I Do
-
-By day — BI analyst at [AssistAgro](https://assistagro.com) / [AgroHistory](https://info.agrohistory.com). Dashboards, data pipelines, analytics for agribusiness. Currently building **Куарка** — a full-cycle warehouse management system for agricultural enterprises.
-
-After hours — I ship my own products: AI content platforms, analytics dashboards, and automotive catalogs.
+By day — BI analyst at [AssistAgro](https://assistagro.com) / [AgroHistory](https://info.agrohistory.com), currently building **Куарка**, a full-cycle WMS for agribusiness.
+After hours — I ship my own products: AI content tools, analytics dashboards, automotive catalogs.
 
 ---
 
@@ -17,11 +15,11 @@ After hours — I ship my own products: AI content platforms, analytics dashboar
 
 | Project | What it does |
 |---------|-------------|
-| <img src="https://icon.horse/icon/inkover.ink" width="15" align="center"/> **[Inkover](https://inkover.ink)**  | Translate manga and webtoons right in your browser — AI OCR, inpainting, editable text blocks, batch chapters, full version history |
+| <img src="https://icon.horse/icon/inkover.ink" width="15" align="center"/> **[Inkover](https://inkover.ink)** | Translate manga and webtoons right in your browser — AI OCR, inpainting, editable text blocks, batch chapters, full version history |
 | <img src="https://icon.horse/icon/socribo.ru" width="15" align="center"/> **[Socribo](https://socribo.ru)** | AI autopilot for social media — generates content plans, writes posts, and publishes to Telegram, VK, Dzen, and OK |
-| **[Диктовка](https://xn--80adfqkb0a5a.xn--p1ai)** | Turn any audio or video into structured text — speaker diarization, summaries, and 90+ languages, free to use |
-| **[Rent Stat](https://rent-stat.org)** | Real picture of the Belarus rental market — AI-scored listings, duplicate filtering, and live dashboards |
-| **[EV Belarus](https://evauto.pro)** | The EV reference for Belarus — every model, spec, price, crash rating, and owner review in one place |
+| <img src="https://icon.horse/icon/xn--80adfqkb0a5a.xn--p1ai" width="15" align="center"/> **[Диктовка](https://xn--80adfqkb0a5a.xn--p1ai)** | Turn any audio or video into structured text — speaker diarization, summaries, and 90+ languages, free to use |
+| <img src="https://icon.horse/icon/rent-stat.org" width="15" align="center"/> **[Rent Stat](https://rent-stat.org)** | Real picture of the Belarus rental market — AI-scored listings, duplicate filtering, and live dashboards |
+| <img src="https://icon.horse/icon/evauto.pro" width="15" align="center"/> **[EV Belarus](https://evauto.pro)** | The EV reference for Belarus — every model, spec, price, crash rating, and owner review in one place |
 | **Куарка** | WMS purpose-built for agribusiness — real-time inventory, stock movements, and operations across the farm |
 
 ---
@@ -39,7 +37,7 @@ After hours — I ship my own products: AI content platforms, analytics dashboar
 ![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138)
 ![Shell](https://img.shields.io/badge/Shell-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
-**Backend**
+**Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=e6edf3)
