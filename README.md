@@ -15,7 +15,7 @@
                                                                                   ⠀⠀⠀⠀⠀⠀⠀⠘⠶⠛⠁⠈⠛⠶⠞
 ```
 
-[**inkover.ink**](https://inkover.ink) &nbsp;·&nbsp; [**Telegram @nikiomori**](https://t.me/nikiomori)  &nbsp;·&nbsp; [**X @nikiomori**](https://x.com/niki0mori)
+[**inkover.ink**](https://inkover.ink) &nbsp;·&nbsp; [**Telegram @nikiomori**](https://t.me/nikiomori)  &nbsp;·&nbsp; [**X @niki0mori**](https://x.com/niki0mori)
 
 ### `$ cat about.md`
 
